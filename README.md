@@ -1,5 +1,3 @@
-# Face-recognition-
-
 # Face Recognition System
 
 ## Overview
@@ -23,12 +21,12 @@ pip install opencv-python numpy face-recognition pickle-mixin
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/face-recognition-system.git
-   cd face-recognition-system
+   git clone https://github.com/Ayush0091/Face-recognition-
+   cd Face-recognition-
    ```
 2. Run the script:
    ```bash
-   python face_recognition.py
+   python face.py
    ```
 3. The webcam will start, and faces will be detected.
 4. If an unknown face appears, you'll be prompted to add it to the database.
@@ -45,10 +43,10 @@ pip install opencv-python numpy face-recognition pickle-mixin
 
 ## File Structure
 ```
-face-recognition-system/
-│── face_recognition.py  # Main script
-│── face_data.pkl        # Stored face encodings and names
-│── README.md            # Project documentation
+Face-recognition-/
+│── face.py             # Main script
+│── face_data.pkl       # Stored face encodings and names
+│── README.md           # Project documentation
 ```
 
 ## Dependencies
@@ -71,5 +69,6 @@ face-recognition-system/
 This project is open-source and available under the MIT License.
 
 ## Author
-Ayush Sharma
+[Ayush0091](https://github.com/Ayush0091)  
+
 
